@@ -1,0 +1,15 @@
+#titres {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr 1fr;
+  justify-content: center;
+  align-items: center;
+  margin-left: 30px;
+}
+
+#palmares{
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr 1fr 50px;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10px;
+}

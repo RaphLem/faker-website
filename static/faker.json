@@ -1,0 +1,195 @@
+{
+  "biographie": [
+    {
+      "image": "static/img/faker-pose.jpg",
+      "titre": "Intro part 1",
+      "texte": "Lee Sang-hyeok (coréen : 이상혁), connu sous le pseudonyme de Faker, est un joueur professionnel sud-coréen de League of Legends. Anciennement GoJeonPa (coréen : 고전파) sur le serveur coréen, il fut recruté par SK Telecom en 2013 et est actuellement midlaner pour l'équipe T1. Il est aussi connu avec le surnom d'Unkillable Demon King."
+    },
+    {
+      "titre": "Intro part 2",
+      "texte": "le meilleur joueur de tous les temps. Avec son coéquipier Bengi, il est le seul joueur à avoir gagné trois fois le Championnat du monde de League of Legends (2013, 2015 et 2016). Ses récompenses s’élèvent à 1 169 713,35 $, ce qui le classe 29e de tous les joueurs d'esport en termes de revenus."
+    },
+    {
+      "titre": "Jeunesse",
+      "texte": "Sang-Hyeok est né à Séoul le 7 mai 1996. Son frère et lui furent élevés par son père et ses grands-parents dans le district de Gangseo. Il a toujours aimé les puzzles et les jeux vidéo, comme Warcraft III ou le MOBA Chaos. Il a découvert League of Legends fin 2011 et est rapidement devenu très bon. Il quitte l'équivalent coréen du lycée pour rejoindre l'équipe coréenne SK Telecom."
+    },
+    {
+      "titre": "Carrière",
+      "saisons": [
+        {
+          "id": "3",
+          "texte": "En octobre 2013, il remporte son premier Championnat du monde de League of Legends comme membre de l'équipe SK Telecom T1 K. Il est depuis considéré comme le meilleur joueur de League of Legends au monde pour ses performances dans une équipe considérée comme l'une des meilleures."
+        },
+        {
+          "id": "4",
+          "texte": "En 2014, les équipes SKT K et SKT S fusionnent et Faker devient membre de la nouvelle équipe SKT T1. Malheureusement, SKT T1 ne réussit pas à se qualifier au Championnat du monde de 2014"
+        },
+        {
+          "id": "5",
+          "texte": "En novembre 2014, entre la saison 4 et 5, Faker refuse plusieurs contrats d'équipes chinoises. L'une d'entre elles (dont le nom n'est pas connu) a offert 463 930 dollars en plus d'un salaire annuel de 185 572 dollars. La seconde équipe chinoise a quant à elle offert un bonus à la signature de 278 205 dollars en plus d'un contrat de deux ans rémunéré 649 502 dollars à l'année2.\n\nEn 2015, lors de la League of Legends Champions Korea (LCK) d'été, il est retiré de l'équipe à la suite des choix de son coach KkOma avant de revenir en réalisant un quintuplé contre le joueur Ggoong de l'équipe NaJin e-mFire. Il gagne une seconde fois le Championnat du monde de League of Legends avec son équipe SKT T1 en fin de saison, avec 15 victoires pour une défaite."
+        },
+        {
+          "id": "6",
+          "texte": "SKT T1 commence l'année 2016 en remportant la LCK de printemps, leur permettant de se qualifier au Mid-Season Invitational (MSI). Ce tournoi était, à l'époque, le seul titre qui manquait à leur palmarès. Malgré un début mitigé en perdant quelques matchs de poule, ils réussissent à se qualifier pour les demi-finales et finissent par remporter la finale contre l'équipe américaine CLG (Counter Logic Gaming).\n\nSKT T1 ne termine que troisième de la LCK d'été de cette année, mais garantit tout de même une place au Championnat du monde 2016. Les joueurs gagnent ce Championnat du monde en battant une autre équipe coréenne, Samsung Galaxy, dans un match au terme duquel Faker est élu meilleur joueur (MVP). SKT T1 est la seule équipe à avoir été trois fois championne du monde."
+        },
+        {
+          "id": "7",
+          "texte": "de dollars pour l'année1. Il bat en février 2017 un record de spectateurs simultanés du site Twitch sur sa chaîne en rassemblant plus de 245 000 personnes.\n\nSKT T1 termine 2e de la LCK derrière l'équipe Longzhu Gaming, se qualifiant ainsi pour le Championnat du monde 2017. L'équipe arrive jusqu'en finale contre les Samsung Galaxy, mais est défaite 3 - 0 par ces derniers."
+        },
+        {
+          "id": "8",
+          "texte": "SKT T1 ne parvient pas à se qualifier pour la huitième édition du Championnat du Monde de League of Legends."
+        },
+        {
+          "id": "9",
+          "texte": "SKT T1 se qualifie pour le championnat du monde 2019. Faker et son équipe terminent la phase de groupe avec une fiche de 5-1, Fnatic ayant été la seule équipe à avoir réussi à leur infliger une défaite. L'équipe coréenne défait l'équipe européenne Splyce en quart de finale avec un score de 3-1, avant d'être éliminée par G2 Esports en demi-finale."
+        },
+        {
+          "id": "10",
+          "texte": "En octobre 2013, il remporte son premier Championnat du monde de League of Legends comme membre de l'équipe SK Telecom T1 K. Il est depuis considéré comme le meilleur joueur de League of Legends au monde pour ses performances dans une équipe considérée comme l'une des meilleures."
+        }
+      ]
+    }
+  ],
+  "equipe": [
+    {
+      "id": "1",
+      "pseudo": "Zeus",
+      "name": "Choi Woo-je (최우제)",
+      "image": "static/img/T1_Zeus.png",
+      "role": "Top laner",
+      "champions": [
+        {
+          "champion" : "Gnar"
+        },
+        {
+          "champion" : "Jayce"
+        },
+        {
+          "champion" : "Renekton"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "pseudo": "Oner",
+      "name": "Moon Hyeon-joon (문현준)",
+      "image": "static/img/T1_Oner.png",
+      "role": "Jungler",
+      "champions": [
+        {
+          "champion" : "Nidalee"
+        },
+        {
+          "champion" : "Ekko"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "pseudo": "Faker",
+      "name": "Lee Sang-hyeok (이상혁)",
+      "image": "static/img/T1_Faker.png",
+      "role": "Mid laner",
+      "champions": [
+        {
+          "champion" : "Zed"
+        },
+        {
+          "champion" : "Yasuo"
+        },
+        {
+          "champion" : "Ryze"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "pseudo": "Gumayusi",
+      "name": "Lee Min-hyeong (이민형)",
+      "image": "static/img/T1_Gumayusi.png",
+      "role": "ADC",
+      "champions": [
+        {
+          "champion" : "Aphélios"
+        },
+        {
+          "champion" : "Kaisa"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "pseudo": "Keria",
+      "name": "Ryu Min-seok (류민석)",
+      "image": "static/img/T1_Keria.png",
+      "role": "Support",
+      "champions": [
+        {
+          "champion" : "Pyke"
+        },
+        {
+          "champion" : "Thresh"
+        }
+      ]
+    }
+  ],
+  "palmares": [
+    {
+      "id": "1",
+      "equipe": "SK Telecom T1 S",
+      "tournoi": "Spring OnGameNet Champions",
+      "annee": "2013",
+      "place": "1er"
+    },
+    {
+      "id": "2",
+      "equipe": "SK Telecom T1 S",
+      "tournoi": "Summer HOT6iX Champions",
+      "annee": "2013",
+      "place": "1er"
+    },
+    {
+      "id": "3",
+      "equipe": "SK Telecom T1 K",
+      "tournoi": "World Championship",
+      "annee": "2013",
+      "place": "1er"
+    },
+    {
+      "id": "4",
+      "equipe": "SK Telecom T1 K",
+      "tournoi": " Winter PANDORA.TV Champions",
+      "annee": "2013",
+      "place": "1er"
+    },
+    {
+      "id": "5",
+      "equipe": "SK Telecom T1 K",
+      "tournoi": "All Star",
+      "annee": "2014",
+      "place": "1er"
+    },
+    {
+      "id": "6",
+      "equipe": "SK Telecom T1 K",
+      "tournoi": "Summer ITENJOY NLB",
+      "annee": "2014",
+      "place": "1er"
+    },
+    {
+      "id": "7",
+      "equipe": "SK Telecom T1",
+      "tournoi": "Spring SBENU Champions Korea",
+      "annee": "2015",
+      "place": "1er"
+    },
+    {
+      "id": "8",
+      "equipe": "SK Telecom T1",
+      "tournoi": "MSI",
+      "annee": "2015",
+      "place": "2nd"
+    }
+  ]
+}

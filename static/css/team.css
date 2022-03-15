@@ -1,0 +1,28 @@
+main{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    text-align: center;
+  margin: 10rem 0;
+}
+
+main div{
+    margin: auto;
+}
+
+.profil-picture{
+    width: 300px;
+}
+
+h1{
+    text-align: center;
+    margin: 5rem 0;
+}
+
+@media (max-width: 600px) {
+
+  main div{
+    margin: 2rem auto;
+  }
+
+}

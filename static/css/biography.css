@@ -1,0 +1,49 @@
+.portrait{
+  width: 400px;
+}
+
+#introduction{
+  display: flex;
+  align-items: center;
+}
+
+p{
+  text-align: justify;
+}
+
+#content{
+  padding: 0 10%;
+}
+
+h1,h2{
+  margin: 5rem;
+}
+
+h3{
+  margin: 2rem 0;
+}
+
+#container{
+  padding:0 3rem;
+}
+
+#container img{
+  display: block;
+  width: 100px;
+  margin: 2rem auto;
+}
+
+@media (max-width: 800px) {
+
+  #introduction {
+    flex-direction: column;
+  }
+
+  h1,h2{
+    text-align: center;
+  }
+
+  #container{
+    padding: 0;
+  }
+}

@@ -1,0 +1,103 @@
+.flex{
+    display: flex;
+    align-items: center;
+    margin: 7rem 0;
+}
+
+.flex:first-child{
+    padding-left: 3rem;
+}
+
+.nd-child{
+    padding-right: 3rem;
+}
+
+.flex>img{
+    width: 45%;
+}
+
+.flex-div{
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-div h2,.flex-div h1{
+    padding: 3rem 0 0 4rem;
+}
+
+.flex-div p{
+    padding:0 3rem 2rem 3rem;
+}
+
+#quote svg path{
+   fill: white;
+}
+
+#quote h2{
+    margin-right: 1rem;
+    margin-left: 1rem;
+    font-weight: 400;
+}
+
+
+#quote{
+    display: flex;
+    width: max-content;
+    justify-content:center;
+    border: var(--red) 1px solid;
+    margin: 10rem auto;
+    padding: 1rem 2rem;
+}
+
+.transition{
+    text-align: center;
+    margin-top: 5rem;
+}
+
+#logo-t1{
+    display: block;
+    width: 150px;
+    margin: auto;
+}
+
+#last-bouton{
+    display: block;
+    margin: auto auto 3rem auto ;
+
+}
+
+@media (max-width: 600px){
+  .flex{
+    text-align: center;
+    flex-direction: column;
+    padding: 0;
+  }
+
+  .flex img{
+    width: 60%;
+  }
+
+  .flex:first-of-type{
+    padding: 0;
+  }
+
+  .flex *{
+    margin: auto;
+  }
+
+  .nd-child img{
+    margin-top: 4rem;
+  }
+}
+
+
+@media (max-width: 600px) {
+  #quote h2{
+    font-size: 1rem;
+  }
+
+  .flex-div h1,.flex-div h2{
+    margin: 2.5rem;
+    padding: 0;
+  }
+}
